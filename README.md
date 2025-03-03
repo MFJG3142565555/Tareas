@@ -2,6 +2,6 @@
 
 Integrantes del equipo:
 
-Meza López Jorge Gael
+Meza López Jorge Gael - 21170399
 
-Félix Avendaño Mateo
+Félix Avendaño Mateo - 21170314
