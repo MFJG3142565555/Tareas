@@ -4,3 +4,5 @@ Se emplearon las librerías
 -tkinter
 -pandas
 -sklearn
+-joblib
+-matplotlib
