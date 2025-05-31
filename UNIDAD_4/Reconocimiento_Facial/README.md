@@ -1,2 +1,2 @@
 Programa de reconocimiento facial
-video de funcionamiento del programa: https://itculiacanedu-my.sharepoint.com/:v:/g/personal/l21170314_culiacan_tecnm_mx/EQMo3_TqAnJCgbnf12o08cMBDQYX8PPsAiP6YUujxKIWNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZStX4j
+video de funcionamiento del programa: (https://youtu.be/Mc86R5YYAyE)
